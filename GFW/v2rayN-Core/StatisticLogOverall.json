@@ -1,0 +1,20 @@
+{
+  "server": [
+    {
+      "itemId": "djItaGs1LjU0ZHl3ci5jb201NDM=",
+      "totalUp": 10162,
+      "totalDown": 240,
+      "todayUp": 10162,
+      "todayDown": 240,
+      "dateNow": 637140384000000000
+    },
+    {
+      "itemId": "djItaGs0LjU0ZHl3ci5jb201NDM=",
+      "totalUp": 3022,
+      "totalDown": 96,
+      "todayUp": 3022,
+      "todayDown": 96,
+      "dateNow": 637140384000000000
+    }
+  ]
+}
