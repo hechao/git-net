@@ -10,18 +10,32 @@
     },
     {
       "itemId": "djItaGs0LjU0ZHl3ci5jb201NDM=",
+<<<<<<< HEAD
       "totalUp": 3022,
       "totalDown": 96,
       "todayUp": 0,
       "todayDown": 0,
+=======
+      "totalUp": 54928,
+      "totalDown": 150655,
+      "todayUp": 51906,
+      "todayDown": 150559,
+>>>>>>> ccf7a124de7b5413c536c8a532186a62f8e22cd2
       "dateNow": 637142112000000000
     },
     {
       "itemId": "djItZWxzMS41NGR5d3IuY29tNTQz",
+<<<<<<< HEAD
       "totalUp": 6183945,
       "totalDown": 6032779,
       "todayUp": 0,
       "todayDown": 0,
+=======
+      "totalUp": 704897,
+      "totalDown": 6009834,
+      "todayUp": 704897,
+      "todayDown": 6009834,
+>>>>>>> ccf7a124de7b5413c536c8a532186a62f8e22cd2
       "dateNow": 637142112000000000
     }
   ]

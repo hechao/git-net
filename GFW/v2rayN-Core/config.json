@@ -34,7 +34,11 @@
     },
     {
       "tag": "api",
+<<<<<<< HEAD
       "port": 53029,
+=======
+      "port": 49980,
+>>>>>>> ccf7a124de7b5413c536c8a532186a62f8e22cd2
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "sniffing": null,
@@ -55,8 +59,13 @@
       "settings": {
         "vnext": [
           {
+<<<<<<< HEAD
             "address": "hk9.cyss.us",
             "port": 443,
+=======
+            "address": "v2-hk6.54dywr.com",
+            "port": 543,
+>>>>>>> ccf7a124de7b5413c536c8a532186a62f8e22cd2
             "users": [
               {
                 "id": "d6a209e3-5f1e-3238-9650-a2224e17e1ff",

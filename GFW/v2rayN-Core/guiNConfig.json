@@ -9,7 +9,11 @@
   ],
   "logEnabled": false,
   "loglevel": "warning",
+<<<<<<< HEAD
   "index": 40,
+=======
+  "index": 0,
+>>>>>>> ccf7a124de7b5413c536c8a532186a62f8e22cd2
   "vmess": [
     {
       "configVersion": 2,
@@ -199,7 +203,11 @@
       "alterId": 2,
       "security": "auto",
       "network": "tcp",
+<<<<<<< HEAD
       "remarks": "剩余流量：44.90% 134.71GB",
+=======
+      "remarks": "剩余流量：44.73% 134.18GB",
+>>>>>>> ccf7a124de7b5413c536c8a532186a62f8e22cd2
       "headerType": "none",
       "requestHost": "",
       "path": "",
