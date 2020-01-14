@@ -9,11 +9,7 @@
   ],
   "logEnabled": false,
   "loglevel": "warning",
-<<<<<<< HEAD
-  "index": 40,
-=======
-  "index": 0,
->>>>>>> ccf7a124de7b5413c536c8a532186a62f8e22cd2
+  "index": 37,
   "vmess": [
     {
       "configVersion": 2,
@@ -31,7 +27,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "08d07139-d881-440d-ab7b-8b5b2b8300ec"
+      "subid": "a172c73c-e641-4447-9402-6cd111bbc482"
     },
     {
       "configVersion": 2,
@@ -49,7 +45,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "08d07139-d881-440d-ab7b-8b5b2b8300ec"
+      "subid": "a172c73c-e641-4447-9402-6cd111bbc482"
     },
     {
       "configVersion": 2,
@@ -67,7 +63,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "08d07139-d881-440d-ab7b-8b5b2b8300ec"
+      "subid": "a172c73c-e641-4447-9402-6cd111bbc482"
     },
     {
       "configVersion": 2,
@@ -85,7 +81,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "08d07139-d881-440d-ab7b-8b5b2b8300ec"
+      "subid": "a172c73c-e641-4447-9402-6cd111bbc482"
     },
     {
       "configVersion": 2,
@@ -103,7 +99,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "08d07139-d881-440d-ab7b-8b5b2b8300ec"
+      "subid": "a172c73c-e641-4447-9402-6cd111bbc482"
     },
     {
       "configVersion": 2,
@@ -121,7 +117,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "08d07139-d881-440d-ab7b-8b5b2b8300ec"
+      "subid": "a172c73c-e641-4447-9402-6cd111bbc482"
     },
     {
       "configVersion": 2,
@@ -139,7 +135,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "08d07139-d881-440d-ab7b-8b5b2b8300ec"
+      "subid": "a172c73c-e641-4447-9402-6cd111bbc482"
     },
     {
       "configVersion": 2,
@@ -157,7 +153,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "08d07139-d881-440d-ab7b-8b5b2b8300ec"
+      "subid": "a172c73c-e641-4447-9402-6cd111bbc482"
     },
     {
       "configVersion": 2,
@@ -175,7 +171,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "08d07139-d881-440d-ab7b-8b5b2b8300ec"
+      "subid": "a172c73c-e641-4447-9402-6cd111bbc482"
     },
     {
       "configVersion": 2,
@@ -193,7 +189,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -203,11 +199,7 @@
       "alterId": 2,
       "security": "auto",
       "network": "tcp",
-<<<<<<< HEAD
-      "remarks": "剩余流量：44.90% 134.71GB",
-=======
-      "remarks": "剩余流量：44.73% 134.18GB",
->>>>>>> ccf7a124de7b5413c536c8a532186a62f8e22cd2
+      "remarks": "剩余流量：39.26% 117.79GB",
       "headerType": "none",
       "requestHost": "",
       "path": "",
@@ -215,7 +207,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -233,7 +225,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -251,7 +243,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -269,7 +261,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -287,25 +279,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
-    },
-    {
-      "configVersion": 2,
-      "address": "tw2.cyss.us",
-      "port": 443,
-      "id": "d6a209e3-5f1e-3238-9650-a2224e17e1ff",
-      "alterId": 2,
-      "security": "auto",
-      "network": "ws",
-      "remarks": "台湾-2-Hinet-三网-传说",
-      "headerType": "none",
-      "requestHost": "tw2.cyss.us",
-      "path": "/v2ray",
-      "streamSecurity": "tls",
-      "allowInsecure": "",
-      "configType": 1,
-      "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -323,7 +297,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -341,7 +315,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -359,7 +333,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -377,7 +351,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -395,7 +369,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -413,7 +387,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -431,7 +405,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -449,25 +423,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
-    },
-    {
-      "configVersion": 2,
-      "address": "jp20.cyss.us",
-      "port": 443,
-      "id": "d6a209e3-5f1e-3238-9650-a2224e17e1ff",
-      "alterId": 2,
-      "security": "auto",
-      "network": "ws",
-      "remarks": "日本-3-Azure优化-三网-传说",
-      "headerType": "none",
-      "requestHost": "jp3.cyss.us",
-      "path": "/v2ray",
-      "streamSecurity": "tls",
-      "allowInsecure": "",
-      "configType": 1,
-      "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -477,7 +433,7 @@
       "alterId": 2,
       "security": "auto",
       "network": "ws",
-      "remarks": "日本-4-软银-全网-传说",
+      "remarks": "日本-4-Starry-全网-传说",
       "headerType": "none",
       "requestHost": "jp4.cyss.us",
       "path": "/v2ray",
@@ -485,7 +441,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -503,7 +459,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -521,7 +477,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -539,7 +495,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -557,7 +513,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -575,25 +531,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
-    },
-    {
-      "configVersion": 2,
-      "address": "us1.cyss.us",
-      "port": 443,
-      "id": "d6a209e3-5f1e-3238-9650-a2224e17e1ff",
-      "alterId": 2,
-      "security": "auto",
-      "network": "ws",
-      "remarks": "美国-1-安畅GIA-三网-传说",
-      "headerType": "none",
-      "requestHost": "us1.cyss.us",
-      "path": "/v2ray",
-      "streamSecurity": "tls",
-      "allowInsecure": "",
-      "configType": 1,
-      "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -611,7 +549,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -629,7 +567,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -647,7 +585,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -665,7 +603,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -683,7 +621,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -701,7 +639,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -719,7 +657,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -737,7 +675,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     },
     {
       "configVersion": 2,
@@ -755,7 +693,7 @@
       "allowInsecure": "",
       "configType": 1,
       "testResult": "",
-      "subid": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5"
+      "subid": "6e1792e6-3c3a-47df-8430-bb0fc6129484"
     }
   ],
   "muxEnabled": true,
@@ -781,15 +719,15 @@
   "remoteDNS": "",
   "subItem": [
     {
-      "id": "08d07139-d881-440d-ab7b-8b5b2b8300ec",
-      "remarks": "DO",
-      "url": "https://www.plmb001.com/link/q41752wvXShSGh9z?mu=2",
+      "id": "6e1792e6-3c3a-47df-8430-bb0fc6129484",
+      "remarks": "cyyun",
+      "url": "https://1.cysubscribe.vip/link/hyC4bLAITouHiD2W?sub=3&extend=1",
       "enabled": true
     },
     {
-      "id": "e9d8f71c-faf3-4cf9-bec5-b7c67594fdf5",
-      "remarks": "CY",
-      "url": "https://1.cysubscribe.vip/link/hyC4bLAITouHiD2W?sub=3&extend=1",
+      "id": "a172c73c-e641-4447-9402-6cd111bbc482",
+      "remarks": "dotunnel",
+      "url": "https://www.plmb001.com/link/q41752wvXShSGh9z?mu=2",
       "enabled": true
     }
   ],
