@@ -34,7 +34,11 @@
     },
     {
       "tag": "api",
+<<<<<<< HEAD
       "port": 53049,
+=======
+      "port": 61527,
+>>>>>>> refs/remotes/origin/master
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "sniffing": null,
@@ -55,7 +59,11 @@
       "settings": {
         "vnext": [
           {
+<<<<<<< HEAD
             "address": "jp4.cyss.us",
+=======
+            "address": "hk9.cyss.us",
+>>>>>>> refs/remotes/origin/master
             "port": 443,
             "users": [
               {
@@ -75,7 +83,11 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
+<<<<<<< HEAD
           "serverName": "jp4.cyss.us"
+=======
+          "serverName": "hk9.cyss.us"
+>>>>>>> refs/remotes/origin/master
         },
         "tcpSettings": null,
         "kcpSettings": null,
@@ -83,7 +95,11 @@
           "connectionReuse": true,
           "path": "/v2ray",
           "headers": {
+<<<<<<< HEAD
             "Host": "jp4.cyss.us"
+=======
+            "Host": "hk9.cyss.us"
+>>>>>>> refs/remotes/origin/master
           }
         },
         "httpSettings": null,

@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+--------------------------------info[11:34:43]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+=======
 --------------------------------info[00:16:38]--------------------------------
 System.Exception: v2rayN start up
 
@@ -11,7 +17,11 @@ System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.
    在 v2rayN.Handler.DownloadHandle.Ws_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
 
  
+<<<<<<< HEAD
 --------------------------------info[00:24:46]--------------------------------
 System.Exception: v2rayN start up
 
  
+=======
+>>>>>>> ccf7a124de7b5413c536c8a532186a62f8e22cd2
+>>>>>>> refs/remotes/origin/master
