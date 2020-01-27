@@ -11,3 +11,7 @@ System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.
    在 v2rayN.Handler.DownloadHandle.Ws_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
 
  
+--------------------------------info[00:24:46]--------------------------------
+System.Exception: v2rayN start up
+
+ 

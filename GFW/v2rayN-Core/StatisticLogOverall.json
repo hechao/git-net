@@ -6,23 +6,63 @@
       "totalDown": 240,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637142112000000000
+      "dateNow": 637156800000000000
     },
     {
       "itemId": "djItaGs0LjU0ZHl3ci5jb201NDM=",
-      "totalUp": 54928,
-      "totalDown": 150655,
-      "todayUp": 51906,
-      "todayDown": 150559,
-      "dateNow": 637142112000000000
+      "totalUp": 3058781,
+      "totalDown": 9523217,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637156800000000000
     },
     {
       "itemId": "djItZWxzMS41NGR5d3IuY29tNTQz",
-      "totalUp": 704897,
-      "totalDown": 6009834,
-      "todayUp": 704897,
-      "todayDown": 6009834,
-      "dateNow": 637142112000000000
+      "totalUp": 1188515,
+      "totalDown": 10184205,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637156800000000000
+    },
+    {
+      "itemId": "aGs5LmN5c3MudXM0NDNoazkuY3lzcy51cy92MnJheQ==",
+      "totalUp": 32126030,
+      "totalDown": 472767865,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637156800000000000
+    },
+    {
+      "itemId": "aGs0LmN5c3MudXM0NDNoazQuY3lzcy51cy92MnJheQ==",
+      "totalUp": 16354778,
+      "totalDown": 842912168,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637156800000000000
+    },
+    {
+      "itemId": "dXMxLmN5c3MudXM0NDN1czEuY3lzcy51cy92MnJheQ==",
+      "totalUp": 10962,
+      "totalDown": 216,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637156800000000000
+    },
+    {
+      "itemId": "a3IxLmN5c3MudXM0NDNrcjEuY3lzcy51cy92MnJheQ==",
+      "totalUp": 2683199,
+      "totalDown": 16814370,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637156800000000000
+    },
+    {
+      "itemId": "djItaGs2LjU0ZHl3ci5jb201NDM=",
+      "totalUp": 20767,
+      "totalDown": 484,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637156800000000000
     }
   ]
 }
