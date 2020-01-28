@@ -16,11 +16,15 @@
 		"totalDownloadBytes" : 33258725
 	},
 	"hk-vg3b.eiminode.vip" : {
-		"totalUploadBytes" : 4062707,
-		"totalDownloadBytes" : 13851496
+		"totalUploadBytes" : 4085444,
+		"totalDownloadBytes" : 15624423
 	},
 	"hk-vdg4.eiminode.vip" : {
 		"totalUploadBytes" : 41527,
 		"totalDownloadBytes" : 1088031
+	},
+	"us6.diy45.com" : {
+		"totalUploadBytes" : 3823448,
+		"totalDownloadBytes" : 4153664
 	}
 }

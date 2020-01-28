@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "server": [
     {
       "itemId": "djItaGs1LjU0ZHl3ci5jb201NDM=",
@@ -7,7 +6,7 @@
       "totalDown": 240,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637156800000000000
+      "dateNow": 637157664000000000
     },
     {
       "itemId": "djItaGs0LjU0ZHl3ci5jb201NDM=",
@@ -15,7 +14,7 @@
       "totalDown": 9523217,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637156800000000000
+      "dateNow": 637157664000000000
     },
     {
       "itemId": "djItZWxzMS41NGR5d3IuY29tNTQz",
@@ -23,7 +22,7 @@
       "totalDown": 10184205,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637156800000000000
+      "dateNow": 637157664000000000
     },
     {
       "itemId": "aGs5LmN5c3MudXM0NDNoazkuY3lzcy51cy92MnJheQ==",
@@ -31,7 +30,7 @@
       "totalDown": 472767865,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637156800000000000
+      "dateNow": 637157664000000000
     },
     {
       "itemId": "aGs0LmN5c3MudXM0NDNoazQuY3lzcy51cy92MnJheQ==",
@@ -39,7 +38,7 @@
       "totalDown": 842912168,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637156800000000000
+      "dateNow": 637157664000000000
     },
     {
       "itemId": "dXMxLmN5c3MudXM0NDN1czEuY3lzcy51cy92MnJheQ==",
@@ -47,7 +46,7 @@
       "totalDown": 216,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637156800000000000
+      "dateNow": 637157664000000000
     },
     {
       "itemId": "a3IxLmN5c3MudXM0NDNrcjEuY3lzcy51cy92MnJheQ==",
@@ -55,7 +54,7 @@
       "totalDown": 16814370,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637156800000000000
+      "dateNow": 637157664000000000
     },
     {
       "itemId": "djItaGs2LjU0ZHl3ci5jb201NDM=",
@@ -63,10 +62,15 @@
       "totalDown": 484,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637156800000000000
+      "dateNow": 637157664000000000
+    },
+    {
+      "itemId": "anA0LmN5c3MudXM0NDNqcDQuY3lzcy51cy92MnJheQ==",
+      "totalUp": 978659,
+      "totalDown": 8048876,
+      "todayUp": 899281,
+      "todayDown": 3044451,
+      "dateNow": 637157664000000000
     }
   ]
-=======
-  "server": []
->>>>>>> refs/remotes/origin/master
 }
