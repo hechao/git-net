@@ -24,7 +24,11 @@
 		"totalDownloadBytes" : 1088031
 	},
 	"us6.diy45.com" : {
-		"totalUploadBytes" : 3823448,
-		"totalDownloadBytes" : 4153664
+		"totalUploadBytes" : 4543631,
+		"totalDownloadBytes" : 7533704
+	},
+	"node-mnl.dotunnelv.com" : {
+		"totalUploadBytes" : 20088,
+		"totalDownloadBytes" : 28241
 	}
 }
