@@ -34,7 +34,7 @@
     },
     {
       "tag": "api",
-      "port": 61527,
+      "port": 58937,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "sniffing": null,
@@ -55,11 +55,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "hk9.cyss.us",
-            "port": 443,
+            "address": "v2-hk6.54dywr.com",
+            "port": 543,
             "users": [
               {
-                "id": "d6a209e3-5f1e-3238-9650-a2224e17e1ff",
+                "id": "dd8b9867-f179-38c3-8450-8260fc4f7ba9",
                 "alterId": 2,
                 "email": "t@t.tt",
                 "security": "auto"
@@ -71,21 +71,12 @@
         "response": null
       },
       "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": true,
-          "serverName": "hk9.cyss.us"
-        },
+        "network": "tcp",
+        "security": null,
+        "tlsSettings": null,
         "tcpSettings": null,
         "kcpSettings": null,
-        "wsSettings": {
-          "connectionReuse": true,
-          "path": "/v2ray",
-          "headers": {
-            "Host": "hk9.cyss.us"
-          }
-        },
+        "wsSettings": null,
         "httpSettings": null,
         "quicSettings": null
       },

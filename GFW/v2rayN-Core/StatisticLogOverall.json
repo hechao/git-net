@@ -1,3 +1,28 @@
 {
-  "server": []
+  "server": [
+    {
+      "itemId": "aGs5LmN5c3MudXM0NDNoazkuY3lzcy51cy92MnJheQ==",
+      "totalUp": 12652563,
+      "totalDown": 85325967,
+      "todayUp": 1363325,
+      "todayDown": 55856787,
+      "dateNow": 637168896000000000
+    },
+    {
+      "itemId": "aGs0LmN5c3MudXM0NDNoazQuY3lzcy51cy92MnJheQ==",
+      "totalUp": 7495217,
+      "totalDown": 30585101,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637168896000000000
+    },
+    {
+      "itemId": "c2cyMC5jeXNzLnVzNDQzc2cxLmN5c3MudXMvdjJyYXk=",
+      "totalUp": 6608572,
+      "totalDown": 24157860,
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637168896000000000
+    }
+  ]
 }
