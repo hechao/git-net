@@ -1,0 +1,36 @@
+{
+  "server": [
+    {
+      "itemId": "anA5LmN5c3MudXM0NDNqcDkuY3lzcy51cy92MnJheQ==",
+      "totalUp": 3167389,
+      "totalDown": 18575277,
+      "todayUp": 3167389,
+      "todayDown": 18575277,
+      "dateNow": 637165440000000000
+    },
+    {
+      "itemId": "aGs5LmN5c3MudXM0NDNoazkuY3lzcy51cy92MnJheQ==",
+      "totalUp": 428787,
+      "totalDown": 1219698,
+      "todayUp": 428787,
+      "todayDown": 1219698,
+      "dateNow": 637165440000000000
+    },
+    {
+      "itemId": "aGs0LmN5c3MudXM0NDNoazQuY3lzcy51cy92MnJheQ==",
+      "totalUp": 952568,
+      "totalDown": 2856979,
+      "todayUp": 952568,
+      "todayDown": 2856979,
+      "dateNow": 637165440000000000
+    },
+    {
+      "itemId": "djItdGsyLjU0ZHl3ci5jb201NDM=",
+      "totalUp": 463003,
+      "totalDown": 1243003,
+      "todayUp": 463003,
+      "todayDown": 1243003,
+      "dateNow": 637165440000000000
+    }
+  ]
+}
