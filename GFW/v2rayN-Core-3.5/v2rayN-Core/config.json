@@ -6,8 +6,8 @@
     }
   },
   "log": {
-    "access": "",
-    "error": "",
+    "access": "E:\\git-soft\\git-net\\GFW\\v2rayN-Core-3.5\\v2rayN-Core\\Vaccess.log",
+    "error": "E:\\git-soft\\git-net\\GFW\\v2rayN-Core-3.5\\v2rayN-Core\\Verror.log",
     "loglevel": "warning"
   },
   "inbounds": [
@@ -34,11 +34,7 @@
     },
     {
       "tag": "api",
-<<<<<<< HEAD:GFW/v2rayN-Core/config.json
-      "port": 58937,
-=======
-      "port": 51505,
->>>>>>> refs/remotes/origin/master:GFW/v2rayN-Core-3.5/v2rayN-Core/config.json
+      "port": 49688,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "sniffing": null,
@@ -59,16 +55,11 @@
       "settings": {
         "vnext": [
           {
-<<<<<<< HEAD:GFW/v2rayN-Core/config.json
-            "address": "v2-hk6.54dywr.com",
-            "port": 543,
-=======
-            "address": "sg20.cyss.us",
-            "port": 140,
->>>>>>> refs/remotes/origin/master:GFW/v2rayN-Core-3.5/v2rayN-Core/config.json
+            "address": "hk9.cyss.us",
+            "port": 443,
             "users": [
               {
-                "id": "dd8b9867-f179-38c3-8450-8260fc4f7ba9",
+                "id": "d6a209e3-5f1e-3238-9650-a2224e17e1ff",
                 "alterId": 2,
                 "email": "t@t.tt",
                 "security": "auto"
@@ -80,26 +71,21 @@
         "response": null
       },
       "streamSettings": {
-<<<<<<< HEAD:GFW/v2rayN-Core/config.json
-        "network": "tcp",
-=======
         "network": "ws",
->>>>>>> refs/remotes/origin/master:GFW/v2rayN-Core-3.5/v2rayN-Core/config.json
-        "security": null,
-        "tlsSettings": null,
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "hk9.cyss.us"
+        },
         "tcpSettings": null,
         "kcpSettings": null,
-<<<<<<< HEAD:GFW/v2rayN-Core/config.json
-        "wsSettings": null,
-=======
         "wsSettings": {
           "connectionReuse": true,
           "path": "/v2ray",
           "headers": {
-            "Host": "sg1.cyss.us"
+            "Host": "hk9.cyss.us"
           }
         },
->>>>>>> refs/remotes/origin/master:GFW/v2rayN-Core-3.5/v2rayN-Core/config.json
         "httpSettings": null,
         "quicSettings": null
       },
